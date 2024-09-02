@@ -286,7 +286,8 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    heatVision: 60
+    visibilityAtDark: 20
+    heatVision: 67
     personalLight: 21
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: TANK_ARMOR
@@ -327,7 +328,8 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    heatVision: 45
+    visibilityAtDark: 20
+    heatVision: 67
     personalLight: 19
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: TANK_ARMOR_ASSAULT
@@ -368,7 +370,8 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    heatVision: 30
+    visibilityAtDark: 20
+    heatVision: 67
     personalLight: 17
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: TANK_ARMOR_GUARDIAN_ALLOY
@@ -409,7 +412,8 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    heatVision: 60
+    visibilityAtDark: 20
+    heatVision: 67
     personalLight: 21
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: TANK_ARMOR_BATTLE_ALLOY
@@ -450,7 +454,8 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    heatVision: 45
+    visibilityAtDark: 20
+    heatVision: 67
     personalLight: 19
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: TANK_ARMOR_ASSAULT_ALLOY
@@ -491,7 +496,8 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    heatVision: 30
+    visibilityAtDark: 20
+    heatVision: 67
     personalLight: 17
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: TANK_ARMOR_CERBERUS
@@ -576,10 +582,10 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    visibilityAtDark: 15
+    visibilityAtDark: 20
+    heatVision: 67
     camouflageAtDay: -5
     camouflageAtDark: -10
-    heatVision: 53
     personalLight: 0
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: HOVERTANK_ARMOR_GUARDIAN
@@ -622,7 +628,8 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    heatVision: 60
+    visibilityAtDark: 20
+    heatVision: 67
     personalLight: 21
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: HOVERTANK_ARMOR
@@ -665,7 +672,8 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    heatVision: 45
+    visibilityAtDark: 20
+    heatVision: 67
     personalLight: 19
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: HOVERTANK_ARMOR_ASSAULT
@@ -708,7 +716,8 @@ armors:
     overKill: 2
     meleeDodge:
       flatHundred: -0.2
-    heatVision: 30
+    visibilityAtDark: 20
+    heatVision: 67
     personalLight: 17
     loftempsSet: [ 92, 89, 90, 91 ]
   - type: STR_LIGHT_ARMOR_UP
@@ -742,6 +751,8 @@ armors:
       - 1.0 # 18 RAPID PLASMA
       - 1.0 # 19
     overKill: 2
+    visibilityAtDark: 20
+    heatVision: 67
     recovery:
       energy:
         tu: 0.15
@@ -910,7 +921,7 @@ armors:
     corpseBattle:
       - STR_CORPSE_HEAVY_ARMOR
     storeItem: STR_HEAVY_ARMOR
-    weight: 5
+    weight: -5
     stats:
       tu: -5
       bravery: 10
@@ -940,6 +951,8 @@ armors:
       - 1.0 # 18 RAPID PLASMA
       - 1.0 # 19
     overKill: 2.1
+    visibilityAtDark: 20
+    heatVision: 67
     recovery:
       energy:
         tu: 0.15
@@ -978,6 +991,7 @@ armors:
       - STR_CORPSE_ARMOR
     corpseGeo: STR_BROKEN_ARMOR
     storeItem: STR_PERSONAL_ARMOR_L
+    weight: -15
     stats:
       bravery: 10
     frontArmor: 85
@@ -1006,6 +1020,8 @@ armors:
       - 1.0 # 18 RAPID PLASMA
       - 1.0 # 19
     overKill: 2.3
+    visibilityAtDark: 20
+    heatVision: 67
     recovery:
       energy:
         tu: 0.15
@@ -1044,9 +1060,9 @@ armors:
       - STR_CORPSE_ARMOR_ALLOY
     corpseGeo: STR_BROKEN_ARMOR_ALLOY
     storeItem: STR_PERSONAL_ARMOR_HEAVY
-    weight: 10
+    weight: -10
     stats:
-      tu: -10
+      tu: 10
       bravery: 20
     frontArmor: 120
     sideArmor: 105
@@ -1074,6 +1090,8 @@ armors:
       - 1.0 # 18 RAPID PLASMA
       - 1.0 # 19
     overKill: 2.4
+    visibilityAtDark: 20
+    heatVision: 67
     recovery:
       energy:
         tu: 0.15
@@ -1255,7 +1273,7 @@ armors:
       - STR_CORPSE_DARK_SUIT
     corpseGeo: STR_BROKEN_DARK_SUIT
     storeItem: STR_POWER_SUIT
-    weight: 30
+    weight: -30
     stats:
       tu: 10
       stamina: 10
@@ -1289,6 +1307,8 @@ armors:
     loftempsSet: [ 4 ]
     forcedTorso: 1
     overKill: 2.5
+    visibilityAtDark: 20
+    heatVision: 67
     recovery:
       energy:
         tu: 0.15
@@ -1322,7 +1342,7 @@ armors:
       - STR_CORPSE_SUIT
     corpseGeo: STR_BROKEN_SUIT
     storeItem: STR_FLYING_SUIT
-    weight: 25
+    weight: -25
     stats:
       tu: 10
       firing: 10
@@ -1357,6 +1377,8 @@ armors:
     loftempsSet: [ 4 ]
     forcedTorso: 2
     overKill: 2.5
+    visibilityAtDark: 20
+    heatVision: 67
     recovery:
       energy:
         tu: 0.15
@@ -1528,9 +1550,9 @@ armors:
       - STR_CORPSE_PALADIN_ARMOR
     corpseGeo: STR_BROKEN_PALADIN_ARMOR
     storeItem: STR_PALADIN_ARMOR
-    weight: 40
+    weight: -40
     stats:
-      tu: -20
+      tu: 20
       health: 40
       bravery: 30
       strength: 100
@@ -1563,6 +1585,8 @@ armors:
       - 1.0 # 18 RAPID PLASMA
       - 1.0 # 19
     overKill: 2
+    visibilityAtDark: 20
+    heatVision: 67
     recovery:
       energy:
         flatHundred: 0.37

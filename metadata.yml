@@ -402,6 +402,10 @@
 #       * Fixed small flaw in component swap recipes.
 #       * Improved heavy plasma and variants handobs.
 #       * Added a proper sprite for the Large Alien Containment facility.
+#   Harmony + 1.1.4 
+#   Armor given some weight adjustments
+#   400 Health for ALL Tanks 
+#   300 Health for ALL Turrets
 #
 #
 # resource authors/sources:
@@ -540,8 +544,8 @@
 # Anything not credited here is not necessarily done by me, and may simply be uncredited. Please notify me
 # of any of these you find.
 
-name: "ReaverXcom Harmony"
-version: 1.1.4
+name: "ReaverXcom Harmony (Plus) +"
+version: 1.1.4.1
 description: "A massive expansion in the spirit of the original game."
 author: The Reaver of Darkness & Inventorum Development Team
 

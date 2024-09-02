@@ -3951,43 +3951,43 @@ research:
     needItem: true
   - name: STR_OUTSOURCING
     listOrder: 3100
-    cost: 225
-    points: -675
+    cost: 25
+    points: -25
     dependencies:
       - STR_OUT_OUT
       - STR_ALIEN_ALLOYS
   - name: STR_OUTSOURCING_GWEAPONS
     listOrder: 3110
-    cost: 450
-    points: -1350
+    cost: 25
+    points: -25
     dependencies:
       - STR_OUTSOURCING
       - STR_WEP_OUT
   - name: STR_OUTSOURCING_ARMOR
     listOrder: 3120
-    cost: 300
-    points: -900
+    cost: 25
+    points: -25
     dependencies:
       - STR_OUTSOURCING
       - STR_ARM_OUT
   - name: STR_OUTSOURCING_AIR
     listOrder: 3130
-    cost: 500
-    points: -1500
+    cost: 25
+    points: -25
     dependencies:
       - STR_OUTSOURCING
       - STR_AIR_OUT
   - name: STR_OUTSOURCING_TANKS
     listOrder: 3140
-    cost: 400
-    points: -1200
+    cost: 25
+    points: -25
     dependencies:
       - STR_OUTSOURCING
       - STR_HWP_OUT
   - name: STR_OUTSOURCING_EQUIPMENT
     listOrder: 3150
-    cost: 375
-    points: -1125
+    cost: 25
+    points: -25
     dependencies:
       - STR_OUTSOURCING
       - STR_EQP_OUT

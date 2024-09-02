@@ -96,7 +96,7 @@ ufos:
     score: 100
     reload: 44 #28
     breakOffTime: 420
-    hunterKillerPercentage: 100
+    hunterKillerPercentage: 10 #100
     huntMode: 1
     huntSpeed: 80
     huntBehavior: 0
@@ -198,7 +198,7 @@ ufos:
     score: 125
     reload: 104 #88
     breakOffTime: 450
-    hunterKillerPercentage: 20
+    hunterKillerPercentage: 10 #20
     huntMode: 1
     huntSpeed: 60
     huntBehavior: 0
@@ -271,7 +271,7 @@ ufos:
     score: 175
     reload: 56 #40
     breakOffTime: 500
-    hunterKillerPercentage: 100
+    hunterKillerPercentage: 10 #100
     huntMode: 1
     huntSpeed: 70
     huntBehavior: 0
@@ -408,7 +408,7 @@ ufos:
     score: 300
     reload: 120 #104
     breakOffTime: 550
-    hunterKillerPercentage: 15
+    hunterKillerPercentage: 10 #10
     huntMode: 1
     huntSpeed: 60
     huntBehavior: 0
@@ -548,7 +548,7 @@ ufos:
     score: 375
     reload: 58 #42
     breakOffTime: 600
-    hunterKillerPercentage: 100
+    hunterKillerPercentage: 10 #100
     huntMode: 1
     huntSpeed: 60
     huntBehavior: 0
@@ -718,7 +718,7 @@ ufos:
     score: 600
     reload: 60 #44
     breakOffTime: 750
-    hunterKillerPercentage: 100
+    hunterKillerPercentage: 10 #100
     huntMode: 1
     huntSpeed: 50
     huntBehavior: 0
@@ -956,7 +956,7 @@ ufos:
     score: 150
     reload: 50 #34
     breakOffTime: 520
-    hunterKillerPercentage: 100
+    hunterKillerPercentage: 10 #100
     huntMode: 1
     huntSpeed: 100
     huntBehavior: 0
@@ -1064,7 +1064,7 @@ ufos:
     score: 200
     reload: 116 #100
     breakOffTime: 550
-    hunterKillerPercentage: 40
+    hunterKillerPercentage: 10 #40
     huntMode: 1
     huntSpeed: 75
     huntBehavior: 0
@@ -1137,7 +1137,7 @@ ufos:
     score: 250
     reload: 62 #46
     breakOffTime: 600
-    hunterKillerPercentage: 100
+    hunterKillerPercentage: 10 #100
     huntMode: 1
     huntSpeed: 90
     huntBehavior: 0
@@ -1274,7 +1274,7 @@ ufos:
     score: 400
     reload: 132 #116
     breakOffTime: 650
-    hunterKillerPercentage: 30
+    hunterKillerPercentage: 10 #100
     huntMode: 1
     huntSpeed: 75
     huntBehavior: 0
@@ -1343,7 +1343,7 @@ ufos:
     score: 375
     reload: 36 #20
     breakOffTime: 600
-    hunterKillerPercentage: 15
+    hunterKillerPercentage: 10 #15
     huntMode: 1
     huntSpeed: 75
     huntBehavior: 0
@@ -1414,7 +1414,7 @@ ufos:
     score: 475
     reload: 64 #48
     breakOffTime: 700
-    hunterKillerPercentage: 100
+    hunterKillerPercentage: 10 #100
     huntMode: 1
     huntSpeed: 90
     huntBehavior: 0
@@ -1471,7 +1471,7 @@ ufos:
     score: 650
     reload: 100 #84
     breakOffTime: 800
-    hunterKillerPercentage: 25
+    hunterKillerPercentage: 10 #25
     huntMode: 1
     huntSpeed: 75
     huntBehavior: 0
@@ -1584,7 +1584,7 @@ ufos:
     score: 750
     reload: 66 #50
     breakOffTime: 850
-    hunterKillerPercentage: 100
+    hunterKillerPercentage: 10 #100
     huntMode: 1
     huntSpeed: 90
     huntBehavior: 0

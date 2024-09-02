@@ -148,7 +148,7 @@ facilities:
     refundValue: 300000
     buildTime: 16
     monthlyCost: 20000
-    personnel: 25
+    personnel: 50
     storage: 2
     rightClickActionType: 6
     mapName: RBASE_05
@@ -249,7 +249,7 @@ facilities:
     refundValue: 600000
     buildTime: 26
     monthlyCost: 60000
-    labs: 25
+    labs: 50
     rightClickActionType: 3
     mapName: XBASE_02
     buildOverFacilities:
@@ -295,7 +295,7 @@ facilities:
     refundValue: 640000
     buildTime: 22
     monthlyCost: 70000
-    workshops: 25
+    workshops: 50
     rightClickActionType: 2
     mapName: XBASE_03
     buildOverFacilities:

@@ -4,7 +4,7 @@ units:
     stats:
       tu: 25
       stamina: 10
-      health: 50
+      health: 300
       bravery: 110
       reactions: 40
       firing: 80
@@ -31,7 +31,7 @@ units:
     stats:
       tu: 25
       stamina: 10
-      health: 50
+      health: 300
       bravery: 110
       reactions: 40
       firing: 80
@@ -58,7 +58,7 @@ units:
     stats:
       tu: 25
       stamina: 10
-      health: 70
+      health: 300
       bravery: 110
       reactions: 40
       firing: 80
@@ -85,7 +85,7 @@ units:
     stats:
       tu: 25
       stamina: 10
-      health: 70
+      health: 300
       bravery: 110
       reactions: 40
       firing: 80
@@ -112,7 +112,7 @@ units:
     stats:
       tu: 25
       stamina: 10
-      health: 90
+      health: 300
       bravery: 110
       reactions: 40
       firing: 80
@@ -139,7 +139,7 @@ units:
     stats:
       tu: 25
       stamina: 10
-      health: 90
+      health: 300
       bravery: 110
       reactions: 40
       firing: 80
@@ -166,7 +166,7 @@ units:
     stats:
       tu: 68
       stamina: 85
-      health: 160
+      health: 400
       bravery: 110
       reactions: 25
       firing: 70
@@ -190,7 +190,7 @@ units:
     stats:
       tu: 80
       stamina: 100
-      health: 120
+      health: 400
       bravery: 110
       reactions: 40
       firing: 80
@@ -214,7 +214,7 @@ units:
     stats:
       tu: 92
       stamina: 115
-      health: 80
+      health: 400
       bravery: 110
       reactions: 55
       firing: 90
@@ -238,7 +238,7 @@ units:
     stats:
       tu: 68
       stamina: 85
-      health: 160
+      health: 400
       bravery: 110
       reactions: 25
       firing: 70
@@ -262,7 +262,7 @@ units:
     stats:
       tu: 80
       stamina: 100
-      health: 120
+      health: 400
       bravery: 110
       reactions: 35
       firing: 80
@@ -286,7 +286,7 @@ units:
     stats:
       tu: 92
       stamina: 115
-      health: 80
+      health: 400
       bravery: 110
       reactions: 45
       firing: 90
@@ -310,7 +310,7 @@ units:
     stats:
       tu: 80
       stamina: 90
-      health: 180
+      health: 400
       bravery: 110
       reactions: 25
       firing: 70
@@ -334,7 +334,7 @@ units:
     stats:
       tu: 94
       stamina: 105
-      health: 135
+      health: 400
       bravery: 110
       reactions: 35
       firing: 80
@@ -358,7 +358,7 @@ units:
     stats:
       tu: 108
       stamina: 120
-      health: 90
+      health: 400
       bravery: 110
       reactions: 45
       firing: 90
@@ -382,7 +382,7 @@ units:
     stats:
       tu: 80
       stamina: 90
-      health: 180
+      health: 400
       bravery: 110
       reactions: 25
       firing: 70
@@ -406,7 +406,7 @@ units:
     stats:
       tu: 94
       stamina: 105
-      health: 135
+      health: 400
       bravery: 110
       reactions: 42
       firing: 80
@@ -430,7 +430,7 @@ units:
     stats:
       tu: 108
       stamina: 120
-      health: 90
+      health: 400
       bravery: 110
       reactions: 59
       firing: 90
@@ -454,7 +454,7 @@ units:
     stats:
       tu: 87
       stamina: 98
-      health: 160
+      health: 400
       bravery: 110
       reactions: 33
       firing: 75
@@ -478,7 +478,7 @@ units:
     stats:
       tu: 101
       stamina: 112
-      health: 110
+      health: 400
       bravery: 110
       reactions: 51
       firing: 85
@@ -502,7 +502,7 @@ units:
     stats:
       tu: 94
       stamina: 90
-      health: 200
+      health: 400
       bravery: 110
       reactions: 25
       firing: 70
@@ -527,7 +527,7 @@ units:
     stats:
       tu: 110
       stamina: 110
-      health: 150
+      health: 400
       bravery: 110
       reactions: 44
       firing: 80
@@ -552,7 +552,7 @@ units:
     stats:
       tu: 126
       stamina: 130
-      health: 100
+      health: 400
       bravery: 110
       reactions: 63
       firing: 90
@@ -577,7 +577,7 @@ units:
     stats:
       tu: 94
       stamina: 90
-      health: 200
+      health: 400
       bravery: 110
       reactions: 25
       firing: 70
@@ -602,7 +602,7 @@ units:
     stats:
       tu: 110
       stamina: 110
-      health: 150
+      health: 400
       bravery: 110
       reactions: 35
       firing: 80
@@ -627,7 +627,7 @@ units:
     stats:
       tu: 126
       stamina: 130
-      health: 100
+      health: 400
       bravery: 110
       reactions: 45
       firing: 90
